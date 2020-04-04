@@ -7,3 +7,6 @@
   $ git commit -v
 
 3.「git log」を実行すると内容が確認できる
+
+4.下記を実行してリモートリポジトリに入れる
+　$ git push origin master 
